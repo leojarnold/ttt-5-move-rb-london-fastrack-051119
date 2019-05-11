@@ -10,3 +10,4 @@ end
 
 def input_to_index(user_input)
   user_input = gets.strip
+end
