@@ -12,5 +12,7 @@ def input_to_index(user_input)
   user_input = gets.strip
 end
 
-def converted_input
+def converted_input(input_to_index)
+  input_to_index.to_i
+end
   
