@@ -13,6 +13,6 @@ def input_to_index(user_input)
 end
 
 def converted_input(input_to_index)
-  input_to_index.to_i
+  input_to_index
 end
   
