@@ -12,4 +12,5 @@ def input_to_index(user_input)
   user_input = gets.strip
 end
 
-def conv
+def converted_input
+  
